@@ -1,0 +1,8 @@
+ 2021-04-04 09:36:40,915 - DEBUG - Start of program
+ 2021-04-04 09:36:40,915 - DEBUG - Start of factorial(3)
+ 2021-04-04 09:36:40,915 - DEBUG - i is 0, total is 0
+ 2021-04-04 09:36:40,915 - DEBUG - i is 1, total is 0
+ 2021-04-04 09:36:40,915 - DEBUG - i is 2, total is 0
+ 2021-04-04 09:36:40,915 - DEBUG - i is 3, total is 0
+ 2021-04-04 09:36:40,915 - DEBUG - End of factorial(3)
+ 2021-04-04 09:36:40,916 - DEBUG - End of program
